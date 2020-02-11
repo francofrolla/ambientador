@@ -1,4 +1,4 @@
-def prueba():
+def prueba1():
   lista = []
 
   for x in range(0,len(self)):
