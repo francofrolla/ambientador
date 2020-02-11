@@ -1,4 +1,4 @@
-def losgraficos(nombres,arrayfechas):
+def losgraficos(nombres,arrayfechas,idsatelite):
   lista = []
 
   for x in range(0,len(nombres)):
