@@ -1,7 +1,7 @@
-def losgraficos(nombres,arrayfechas,idsatelite):
+def losgraficos(self,arrayfechas,idsatelite):
   lista = []
 
-  for x in range(0,len(nombres)):
+  for x in range(0,len(self)):
     estado = arrayfechas[x].value
     if estado == True:
       nombre = idsatelite[x]
